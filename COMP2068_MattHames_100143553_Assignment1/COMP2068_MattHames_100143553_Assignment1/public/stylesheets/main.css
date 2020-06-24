@@ -3,6 +3,18 @@ body {
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
+ul {
+    
+    padding: 0em;
+   
+}
+li {
+    
+    float: right;
+}
+
 a {
+    border: solid black;
+    padding: 1em;
     color: #00B7FF;
 }
