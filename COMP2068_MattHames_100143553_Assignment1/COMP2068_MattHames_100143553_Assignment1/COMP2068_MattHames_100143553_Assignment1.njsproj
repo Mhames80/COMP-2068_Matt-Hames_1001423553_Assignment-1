@@ -36,10 +36,11 @@
     <Content Include="public\stylesheets\main.css" />
     <Content Include="README.md" />
     <Content Include="views\about.pug" />
+    <Content Include="views\header.pug" />
+    <Content Include="views\footer.pug" />
     <Content Include="views\projects.pug" />
     <Content Include="views\service.pug" />
     <Content Include="views\contact.pug" />
-    <Content Include="views\index - Copy.pug" />
     <Content Include="views\index.pug" />
     <Content Include="views\layout.pug" />
     <Content Include="views\error.pug" />
