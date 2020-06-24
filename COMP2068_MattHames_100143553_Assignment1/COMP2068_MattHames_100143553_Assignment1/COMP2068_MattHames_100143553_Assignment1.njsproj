@@ -36,8 +36,8 @@
     <Content Include="public\stylesheets\main.css" />
     <Content Include="README.md" />
     <Content Include="views\about.pug" />
-    <Content Include="views\header.pug" />
-    <Content Include="views\footer.pug" />
+    <Content Include="views\partials\header.pug" />
+    <Content Include="views\partials\footer.pug" />
     <Content Include="views\projects.pug" />
     <Content Include="views\service.pug" />
     <Content Include="views\contact.pug" />
@@ -52,6 +52,7 @@
     <Folder Include="public\stylesheets\" />
     <Folder Include="routes\" />
     <Folder Include="views\" />
+    <Folder Include="views\partials\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
   <ProjectExtensions>
