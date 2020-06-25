@@ -1,20 +1,39 @@
+html {
+    
+    background-color: gray;
+}
+
 body {
-    padding: 50px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-color: gray;
 }
 
 ul {
     
-    padding: 0em;
-   
+    background-color: black;
 }
 li {
-    
+    background-color: gray;
     float: right;
 }
 
 a {
-    border: solid black;
+    background-color: gray;
     padding: 1em;
     color: #00B7FF;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 1em;
+}
+h1 {
+    text-align:center;
+    background-color: gray;
+}
+header{
+    background-color: gray;
+}
+p {
+    background-color: gray;
 }
