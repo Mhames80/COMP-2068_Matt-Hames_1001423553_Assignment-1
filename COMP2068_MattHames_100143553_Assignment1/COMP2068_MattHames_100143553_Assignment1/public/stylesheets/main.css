@@ -1,26 +1,36 @@
 html {
-    
-    background-color: gray;
+    margin: 0px;
+    padding: 0px;
+  
+
 }
 
 body {
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
     background-color: gray;
+    background-image: url("https://jessicaroots.com/wp-content/uploads/2018/03/portfolio-background-header.jpg");
+    
+}
+p {
+    text-align: center;
 }
 
 ul {
-    
+    margin: 0px;
+    padding: 0px;
     background-color: black;
 }
 li {
     background-color: gray;
     float: right;
+    color: red;
 }
 
 a {
+    
     background-color: gray;
-    padding: 1em;
-    color: #00B7FF;
+    margin-right: 1em;
+    
 }
 footer {
     position: fixed;
@@ -29,11 +39,30 @@ footer {
 }
 h1 {
     text-align:center;
-    background-color: gray;
+
 }
 header{
     background-color: gray;
 }
 p {
+    margin: 0px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+
+}
+div{
     background-color: gray;
+}
+
+
+p a {
+    color: white;
+}
+.center {
+    display: block;
+    margin-top: 7em;
+    margin-bottom:7em;
+    margin-left: auto;
+    margin-right: auto;
+    
 }
