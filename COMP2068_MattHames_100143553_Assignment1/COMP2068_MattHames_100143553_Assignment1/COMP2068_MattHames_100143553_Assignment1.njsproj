@@ -32,8 +32,10 @@
     <Content Include="app.js" />
     <Content Include="public\pictures\cool.xcf" />
     <Content Include="public\pictures\godfather_0.jpg" />
+    <Content Include="public\pictures\jack.png" />
     <Content Include="public\pictures\monkey.jpg" />
     <Content Include="public\pictures\phone.jpg" />
+    <Content Include="public\pictures\project.jpg" />
     <Content Include="routes\index.js" />
     <Content Include="routes\users.js" />
     <Content Include="package.json" />
